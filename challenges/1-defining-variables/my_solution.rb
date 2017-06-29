@@ -1,9 +1,9 @@
  #Defining Variables
 
 # Tu solucion abajo
-first_name = 'Sebastian'
-last_name = 'Zapata Mardini'
-age = 27
+first_name = 'jorge'
+last_name = 'pachon'
+age = 40
 
 # Pruebas NO LAS BORRES
 
